@@ -20,6 +20,7 @@ cd Linking-writing-habit-with-score
 pip install -r requirements.txt  
 ```
 🔍 Usage
+
 Download the dataset from the Kaggle competition and place it in the data/ directory.
 Use the Jupyter notebooks in notebooks/ for data exploration and analysis.
 Run scripts in src/ for data processing and model training.
