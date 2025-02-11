@@ -14,14 +14,14 @@ Structural features: Paragraph length, coherence, transitions
 Stylistic features: Use of passive/active voice, sentiment analysis
 ⚙️ Setup & Installation
 To run this project, ensure you have Python installed. Clone this repository and install dependencies:
-
+```
 bash
 Copy
 Edit
 git clone https://github.com/chunfortam/Linking-writing-habit-with-score.git  
 cd Linking-writing-habit-with-score  
 pip install -r requirements.txt  
-
+```
 🔍 Usage
 Download the dataset from the Kaggle competition and place it in the data/ directory.
 Use the Jupyter notebooks in notebooks/ for data exploration and analysis.
